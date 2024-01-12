@@ -67,7 +67,14 @@ In this task, we learn how to create a table in a database, load data, and run a
 
 ![select statement used](https://github.com/Cloud-Xplorer08/Amazon-Aurora/assets/71820244/0b459374-b4e8-459d-b1df-22cd92e4aea3)
 
+## Conclusion
+- Created an Aurora instance 
 
+- Connected to a pre-created Amazon Elastic Compute Cloud (Amazon EC2) instance
+
+- Configured the Amazon EC2 instance to connect to Aurora
+
+- Queried the Aurora instance
 
 
 
