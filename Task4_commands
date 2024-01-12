@@ -1,7 +1,7 @@
 ## list available databases
 SHOW DATABASES;
 
-## switc to World database
+## switch to World database
 USE world;
 
 ## create table
